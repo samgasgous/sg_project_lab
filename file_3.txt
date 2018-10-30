@@ -1,3 +1,6 @@
 this is file 3
 file 3 is created after creating new feature
 it is fun
+Oyster Line One
+Oyster Line Two 
+Oyster Line Three
