@@ -1,3 +1,4 @@
+This is a new file line inserted after cloning from remote
 I have been here for over 6 years
 I love what i do
 I love detroit
